@@ -1,0 +1,31 @@
+E:\Projects\EIC\WafersPOC\bin\x86\Debug\WaferPOC.exe.config
+E:\Projects\EIC\WafersPOC\bin\x86\Debug\WaferPOC.exe
+E:\Projects\EIC\WafersPOC\bin\x86\Debug\WaferPOC.pdb
+E:\Projects\EIC\WafersPOC\bin\x86\Debug\BuzzIO.dll
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\WaferPOC.Properties.Resources.resources
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\WaferPOC.WaferPOC.resources
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\WaferPOC.exe
+E:\Projects\EIC\WafersPOC\obj\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WafersPOC\bin\x86\Debug\WaferPOC.exe.config
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WafersPOC\bin\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WafersPOC\bin\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WafersPOC\bin\x86\Debug\BuzzIO.dll
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.Properties.Resources.resources
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.WaferPOC.resources
+C:\Users\daniel attard\Desktop\WafersPOC\obj\x86\Debug\WaferPOC.csproj.GenerateResource.Cache
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.exe.config
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\BuzzIO.dll
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.Properties.Resources.resources
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.csproj.GenerateResource.Cache
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.RoboticsPOC.resources

@@ -1,0 +1,30 @@
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.exe.config
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\WaferPOC\bin\x86\Debug\BuzzIO.dll
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.Properties.Resources.resources
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\WaferPOC.RoboticsPOC.resources
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\RoboticsPOC.csproj.GenerateResource.Cache
+C:\Users\daniel attard\Desktop\WaferPOC\obj\x86\Debug\RoboticsPOC.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\RoboticsPOC\bin\x86\Debug\WaferPOC.exe.config
+C:\Users\daniel attard\Desktop\RoboticsPOC\bin\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\RoboticsPOC\bin\x86\Debug\WaferPOC.pdb
+C:\Users\daniel attard\Desktop\RoboticsPOC\bin\x86\Debug\BuzzIO.dll
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\RoboticsPOC.csprojResolveAssemblyReference.cache
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\WaferPOC.Properties.Resources.resources
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\RoboticsPOC.RoboticsPOC.resources
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\RoboticsPOC.csproj.GenerateResource.Cache
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\WaferPOC.exe
+C:\Users\daniel attard\Desktop\RoboticsPOC\obj\x86\Debug\WaferPOC.pdb
+C:\projects\RoboticsPOC\bin\x86\Debug\BuzzIO.dll
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.csprojResolveAssemblyReference.cache
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.RoboticsPOC.resources
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.csproj.GenerateResource.Cache
+C:\projects\RoboticsPOC\bin\x86\Debug\RoboticsPOC.exe.config
+C:\projects\RoboticsPOC\bin\x86\Debug\RoboticsPOC.exe
+C:\projects\RoboticsPOC\bin\x86\Debug\RoboticsPOC.pdb
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.Properties.Resources.resources
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.exe
+C:\projects\RoboticsPOC\obj\x86\Debug\RoboticsPOC.pdb

@@ -1,0 +1,9 @@
+C:\projects\RoboticsPOC\bin\x86\Release\RoboticsPOC.exe.config
+C:\projects\RoboticsPOC\bin\x86\Release\RoboticsPOC.exe
+C:\projects\RoboticsPOC\bin\x86\Release\RoboticsPOC.pdb
+C:\projects\RoboticsPOC\bin\x86\Release\BuzzIO.dll
+C:\projects\RoboticsPOC\obj\x86\Release\RoboticsPOC.Properties.Resources.resources
+C:\projects\RoboticsPOC\obj\x86\Release\RoboticsPOC.RoboticsPOC.resources
+C:\projects\RoboticsPOC\obj\x86\Release\RoboticsPOC.csproj.GenerateResource.Cache
+C:\projects\RoboticsPOC\obj\x86\Release\RoboticsPOC.exe
+C:\projects\RoboticsPOC\obj\x86\Release\RoboticsPOC.pdb

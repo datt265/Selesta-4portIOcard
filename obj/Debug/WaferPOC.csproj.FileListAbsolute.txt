@@ -1,0 +1,11 @@
+E:\Projects\EIC\WafersPOC\bin\Debug\WaferPOC.exe.config
+E:\Projects\EIC\WafersPOC\bin\Debug\WaferPOC.exe
+E:\Projects\EIC\WafersPOC\bin\Debug\WaferPOC.pdb
+E:\Projects\EIC\WafersPOC\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\EIC\WafersPOC\obj\Debug\WaferPOC.Properties.Resources.resources
+E:\Projects\EIC\WafersPOC\obj\Debug\WaferPOC.WaferPOC.resources
+E:\Projects\EIC\WafersPOC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Projects\EIC\WafersPOC\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Projects\EIC\WafersPOC\obj\Debug\WaferPOC.exe
+E:\Projects\EIC\WafersPOC\obj\Debug\WaferPOC.pdb
+E:\Projects\EIC\WafersPOC\bin\Debug\BuzzIO.dll
